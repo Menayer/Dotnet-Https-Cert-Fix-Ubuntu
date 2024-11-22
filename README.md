@@ -69,7 +69,7 @@ If the issue persists:
 
 - Use `curl` to check for SSL errors:
   ```bash
-  curl -v https://localhost:5001
+  curl -v https://localhost:<port>
   ```
 
 ## Author
