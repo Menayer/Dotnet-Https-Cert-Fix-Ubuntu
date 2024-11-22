@@ -1,6 +1,6 @@
 # Resolving HTTPS Developer Certificate Trust Issues on Ubuntu
 
-The .NET CLI does not automatically configure certificate trust on Ubuntu, unlike Windows Even if the development certificate was successfully generated, it is not recognized as trusted by the OS system.  
+The .NET CLI does not automatically configure certificate trust on Ubuntu, unlike Windows, Even if the development certificate was successfully generated, it is not recognized as trusted by the OS system.  
 You will need to manually trust the development certificate by following these steps:
 
 ---
